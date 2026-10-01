@@ -1,0 +1,13 @@
+  figcaption {
+                    color: rgb(243, 246, 160);
+                }
+                
+            h2 {
+                color: rgb(243, 246, 160);
+            }
+          img {
+        width: 100%;
+    } 
+    figure {
+        border: 4px solid rgb(218, 255, 247);
+    }

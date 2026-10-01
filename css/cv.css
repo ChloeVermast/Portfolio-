@@ -1,0 +1,32 @@
+figure {
+            border: 4px solid rgb(253, 255, 187);
+            width: 200px;
+            overflow: hidden;
+        }
+
+        img {
+            width: 100%;
+            overflow: hidden;
+        }
+
+        section {
+            color: rgb(218, 255, 247);
+        } h2 {
+                color: rgb(243, 246, 160);
+        }
+            strong {
+                color: rgb(41, 31, 60);
+            }
+                figcaption {
+                    color: rgb(243, 246, 160);
+                }
+
+                figure {
+                    text-align: center;
+                    background-color: rgb(101, 68, 151);
+                }
+              
+                h3 {
+                    color: rgb(243, 246, 160);
+                }
+          
