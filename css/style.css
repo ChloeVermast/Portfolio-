@@ -1,26 +1,29 @@
-
-
 body {
-background-color: rgb(96, 93, 139);
+  background-color: rgb(96, 93, 139);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1 {
-text-align: center;
-background-color: rgb(59, 70, 121);
-padding: 15px;
-width: 100%;
-box-sizing: border-box;
+  text-align: center;
+  background-color: rgb(59, 70, 121);
+  padding: 15px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+nav {
+  text-align: center;
 }
 
 a {
-color: rgb(214, 178, 255);
+  color: rgb(214, 178, 255);
 }
 
- p {
-                color: rgb(243, 246, 160);
-                text-align: center;
-                background-color: rgb(59, 70, 121);
-                padding: 15px;
-                width: 100%;
-                box-sizing: border-box;
-            }
+p {
+  color: rgb(243, 246, 160);
+  text-align: center;
+  background-color: rgb(59, 70, 121);
+  padding: 15px;
+  width: 100%;
+  box-sizing: border-box;
+}

@@ -1,15 +1,27 @@
 img {
-width: 50%;
+  width: 35%;
+  text-align: center;
+  background-color: rgb(214, 178, 255);
+  padding: 15px;
+  width: 35%;
+  box-sizing: border-box;
 }
- h2 {
-                color: rgb(218, 255, 247);
-                text-align: center;
-            }
 
-            section {
-                text-align: center;
-                color: rgb(218, 255, 247);
-            }
-             figcaption {
-                    color: rgb(243, 246, 160);
-                }
+h2 {
+  color: rgb(218, 255, 247);
+  text-align: center;
+}
+
+section {
+  text-align: center;
+  color: rgb(218, 255, 247);
+}
+figcaption {
+  color: rgb(243, 246, 160);
+  margin-bottom: 2%;
+  text-align: left;
+  background-color: rgb(59, 70, 121);
+  padding: 15px;
+  width: 100%;
+  box-sizing: border-box;
+}
